@@ -1,4 +1,4 @@
-# EMail Manager
+# E-Mail Manager
 
 - This script is intended to maximize time on email problem management (searching for spams, unsubscribing from mailing lists, for example).
 I created this script as a form to help my day life and learn a little bit more of how email systems works.
